@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^2.0.69",
-    "ai": "^5.0.98",
+    "ai": "^5.0.101",
     "whoiser": "^2.0.0-beta.9",
     "zod": "^4.1.12"
   },
