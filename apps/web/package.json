@@ -12,7 +12,7 @@
     "clean": "rm -rf .next"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.36.7",
+    "@clerk/nextjs": "^6.36.8",
     "@find-my-domain/core": "workspace:*",
     "@hookform/resolvers": "^5.2.2",
     "@radix-ui/react-accordion": "^1.2.12",
