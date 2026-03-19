@@ -1,12 +1,5 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
-  - name: 📚 Documentation
-    url: https://github.com/idimetrix/find-my-domain#readme
-    about: Check out the comprehensive documentation and examples
-  - name: 💬 Discussions
-    url: https://github.com/idimetrix/find-my-domain/discussions
-    about: Ask questions and discuss ideas with the community
-  - name: 📦 npm Package
-    url: https://www.npmjs.com/package/find-my-domain
-    about: View the package on npm registry
-
+  - name: "Not sure which template to use?"
+    url: https://github.com/idimetrix/find-my-domain/issues/new?template=claude-quick.yml
+    about: "Use the Quick Request template — just describe what you need in plain English."
